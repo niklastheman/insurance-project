@@ -1,0 +1,65 @@
+/* General CSS which affects whole page */
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+p {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+/* ~~~~~~~~~~~~~~Landing page ~~~~~~~~~~~~~~~~ */
+
+/* Hero section */
+
+/* Navigation */
+
+/* Financial safety net */
+
+/* About us */
+
+/* How it works */
+
+/*Footer link */
+
+/*Footer box*/
+
+/* ~~~~~~~~~~~~~~Contact page ~~~~~~~~~~~~~~~~ */
+
+/* Hero section */
+
+/* Contact section */
+
+/* Map section */
+
+/* ~~~~~~~~~~~~~~Media Queries Landing page ~~~~~~~~~~~~~~~~ */
+
+/* Hero section */
+
+/* Navigation */
+
+/* Financial safety net */
+
+/* About us */
+
+/* How it works */
+
+/*Footer link */
+
+/*Footer box*/
+
+/* ~~~~~~~~~~~~~~ Media Queries Contact page ~~~~~~~~~~~~~~~~ */
+
+/* Hero section */
+
+/* Contact section */
+
+/* Map section */
