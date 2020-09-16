@@ -1,5 +1,6 @@
 body{
     background:#E5E5E5;
+   
 }
  header 
 {   display: flex;
@@ -683,7 +684,10 @@ background: #F17949;
      display:none;
  }
  @media only screen and (min-width: 960px)
- {
+ {  body{
+    margin-left: 150px;
+    margin-right: 50px;
+ }
     .wrapper{
         margin-left: 150px;
         margin-right:150px;
@@ -824,6 +828,9 @@ line-height: 100%;
 }
 .container-box2 h6{
     position: unset;
+    display: flex;
+align-items: center;
+text-align: center;
 }
 .container-box2 p{
     position: unset;
@@ -838,6 +845,7 @@ line-height: 100%;
 }
 .container-box3 h6{
     position: unset;
+   margin-left: 70px;
 }
 .container-box3 p{
     position: unset;
@@ -857,9 +865,11 @@ margin-left: 90px;
 }
 .container-box4 h6{
     position: unset;
+    margin-left: 80px;
 }
 .container-box4 p{
     position: unset;
+    margin-top: 2px;
 }
 .container-box4-red img{
     position: unset;
